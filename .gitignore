@@ -1,3 +1,4 @@
 send_email/password.py
 face_detection/haarcascade_frontalface_default.xml
 face_detection/Yo.jpg
+automation/credentials.py
